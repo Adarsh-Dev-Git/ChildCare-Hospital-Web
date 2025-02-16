@@ -23,7 +23,7 @@ step 5:- Import feedtable.sql in phpmyadmin inside feed database
 step 6:- check the project http://localhost/website/
 
 ## Connect with me ~Adarsh P
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://adarshpanakkattu@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshpanakkattu/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh.p__/?hl=en)
 
